@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.API\\Catalogo.API.csproj": {}
+    "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.API\\Catalogo.API.csproj": {}
   },
   "projects": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.API\\Catalogo.API.csproj": {
+    "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.API\\Catalogo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.API\\Catalogo.API.csproj",
+        "projectUniqueName": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.API\\Catalogo.API.csproj",
         "projectName": "Catalogo.API",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.API\\Catalogo.API.csproj",
-        "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.API\\obj\\",
+        "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.API\\Catalogo.API.csproj",
+        "packagesPath": "C:\\Users\\LuizFranciscoMiele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LuizFranciscoMiele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj": {
-                "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj"
+              "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj"
               }
             }
           }
@@ -43,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,25 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj": {
+    "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Application\\Catalogo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
+        "projectUniqueName": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Application\\Catalogo.Application.csproj",
         "projectName": "Catalogo.Application",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
-        "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Application\\obj\\",
+        "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Application\\Catalogo.Application.csproj",
+        "packagesPath": "C:\\Users\\LuizFranciscoMiele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LuizFranciscoMiele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj": {
-                "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj"
+              "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj"
               }
             }
           }
@@ -116,6 +113,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -143,25 +145,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj": {
+    "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj",
         "projectName": "Catalogo.CrossCutting",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.CrossCutting\\Catalogo.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\LuizFranciscoMiele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LuizFranciscoMiele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -176,14 +174,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj": {
-                "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj"
+              "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Application\\Catalogo.Application.csproj": {
+                "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Application\\Catalogo.Application.csproj"
               },
-              "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj": {
-                "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj"
+              "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj"
               },
-              "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj": {
-                "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj"
+              "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj"
               }
             }
           }
@@ -192,6 +190,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -223,25 +226,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+    "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj",
         "projectName": "Catalogo.Domain",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\obj\\",
+        "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj",
+        "packagesPath": "C:\\Users\\LuizFranciscoMiele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LuizFranciscoMiele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -262,6 +261,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -283,25 +287,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj": {
+    "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj",
         "projectName": "Catalogo.Infrastructure",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Infrastructure\\Catalogo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LuizFranciscoMiele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LuizFranciscoMiele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -316,8 +316,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj": {
-                "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\16_Arquitetura_Limpa\\Catalogo_CleanArch_NET6\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj"
+              "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\LuizFranciscoMiele\\Documents\\CleanArchitecture\\Catalogo.Domain\\Catalogo.Domain.csproj"
               }
             }
           }
@@ -326,6 +326,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -369,7 +374,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
